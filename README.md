@@ -9,9 +9,10 @@ You can run this code in the Developer account in the test panel or by using the
 More details on the ASK CLI here: https://developer.amazon.com/en-US/docs/alexa/hosted-skills/alexa-hosted-skills-ask-cli.html
 
 
-HELPFUL RESOURCES:
+HELPFUL RESOURCES & RESOURCES USED:
 Creating Alexa Skills: https://developer.amazon.com/en-US/docs/alexa/hosted-skills/alexa-hosted-skills-create.html
 Manage Alexa Skills through VSCode: https://developer.amazon.com/en-US/docs/alexa/ask-toolkit/get-started-with-the-ask-toolkit-for-visual-studio-code.html
+Creating an Amazon Rekognition Lambda Function: https://docs.aws.amazon.com/rekognition/latest/dg/stored-video-lambda.html
 
 
 CONTACT CREATOR:
